@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush5x
+- 👋 Hi, I’m @Ayush Patel
 - 👀 I’m interested in ...Web Devlopment
 - 🌱 I’m currently learning ...MERN STACK
 - 💞️ I’m looking to collaborate on ...
