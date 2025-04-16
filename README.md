@@ -1,13 +1,5 @@
-<!--
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
-## technologies Icons 
-https://simpleicons.org/
-
--->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github]
 <br>
 <br>
 
