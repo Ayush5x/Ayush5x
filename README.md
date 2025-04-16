@@ -64,4 +64,4 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
 
-
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
