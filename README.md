@@ -65,5 +65,4 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 
 ![Ayush5x's Stats](https://github-readme-stats.vercel.app/api?username=Ayush5x&theme=radical&show_icons=true&hide_border=false&count_private=true)
-![Ayush5x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush5x&theme=radical&hide_border=false)
 ![Ayush5x's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush5x&theme=radical&show_icons=true&hide_border=false&layout=compact)
