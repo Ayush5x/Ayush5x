@@ -8,7 +8,7 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Ayush Patel </strong> </samp> </h2>
 <!-- <h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">Portfolio🌐</a></strong></h3> -->
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
-
+  
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. loves working with cutting edge tools and technologies.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
